@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davidtucker/example-js-project.git"
+    "url": "git+https://github.com/kiwy44/example-js-project.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/davidtucker/example-js-project/issues"
+    "url": "https://github.com/kiwy44/example-js-project/issues"
   },
-  "homepage": "https://github.com/davidtucker/example-js-project#readme",
+  "homepage": "https://github.com/kiwy44/example-js-project#readme",
   "dependencies": {
     "chai": "^4.2.0",
     "eslint-config-google": "^0.14.0",
